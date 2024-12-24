@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://go-yohan.github.io/nbdev-hello-world"
+  description: "This is my first step to using nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/go-yohan/nbdev-hello-world"
